@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/basic/static/css/main.ae42ac5f.css",
+    "main.js": "/basic/static/js/main.edf88681.js",
+    "static/media/rezeption2.jpg": "/basic/static/media/rezeption2.4356b4b192eb9b1dc274.jpg",
+    "static/media/rezeption3.jpg": "/basic/static/media/rezeption3.790303793b06db09757b.jpg",
+    "static/media/basic-logo-resize-2.png": "/basic/static/media/basic-logo-resize-2.20a3b0559a0d9bc4d924.png",
+    "index.html": "/basic/index.html",
+    "main.ae42ac5f.css.map": "/basic/static/css/main.ae42ac5f.css.map",
+    "main.edf88681.js.map": "/basic/static/js/main.edf88681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.edf88681.js"
+  ]
+}
